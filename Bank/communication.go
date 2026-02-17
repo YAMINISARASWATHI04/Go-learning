@@ -1,0 +1,13 @@
+package main
+import "fmt"
+
+func presentOptions(){
+	fmt.Println("Welcome to my bank")
+	fmt.Println("What do you want to do")
+	fmt.Println("1.Check Money")
+	fmt.Println("2.Deposit Money")
+	fmt.Println("3.Withdraw Money")
+	fmt.Println("4.Exit")
+
+
+}
